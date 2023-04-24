@@ -10,7 +10,7 @@ body {
 }
 
 /* fonts */
-@import url("https://fonts.googleapis.com/css?family=Hind:400|Playfair+Display:400");
+@import url("https://fonts.googleapis.com/css2?family=Karla&family=Work+Sans&display=swap");
 
 html {
   font-size: 100%;
@@ -47,8 +47,8 @@ html {
   --clr-green-light: #d1e7dd;
   --clr-green-dark: #0f5132;
 
-  --heading-font: "Playfair Display", serif;
-  --body-font: "Hind", sans-serif;
+  --heading-font: "Work Sans", sans-serif;
+  --body-font: "Karla", sans-serif;
   --small-text: 0.8em;
 
   /* rest of the vars */
